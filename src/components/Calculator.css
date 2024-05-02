@@ -7,7 +7,7 @@
 .calculator-main {
     display: flex;
     flex-direction: column;
-    width: 130px;
+    width: 200px;
     height: 320px;
     border: 2px solid #000;
     border-radius: 15px;
